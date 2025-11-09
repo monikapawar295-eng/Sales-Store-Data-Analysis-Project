@@ -52,6 +52,7 @@ payment_mode	Payment method used
 purchase_date	Date of purchase
 time_of_purchase	Time of the transaction
 status	Order status (Completed/Cancelled)
+
 🧹 Data Cleaning Steps
 
 Removed duplicate records using ROW_NUMBER()
