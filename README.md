@@ -25,7 +25,7 @@ Generate insights to support business and marketing strategies
 
 Microsoft SQL Server Management Studio (SSMS)
 
-T-SQL (DDL, DML, Aggregate Functions, Joins, CTEs)
+T-SQL (DDL, DML, Aggregate Functions, CTEs)
 
 BULK INSERT for dataset import
 
